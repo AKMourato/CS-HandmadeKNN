@@ -24,3 +24,4 @@ petal length, and petal width.
 
 
 
+![img](iris_grid.png)
